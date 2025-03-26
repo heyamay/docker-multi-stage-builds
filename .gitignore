@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Terraform cache
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# Ignore Docker container volumes
+postgres_data/
+
+# Ignore virtual environments
+venv/
+.env
