@@ -31,7 +31,7 @@ This project demonstrates the development, containerization, orchestration, and 
 ## 📌 Installation and Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/heyamay/flask-docker-terraform.git
+git clone https://github.com/heyamay/docker-multi-stage-builds.git
 cd flask-docker-terraform
 ```
 
